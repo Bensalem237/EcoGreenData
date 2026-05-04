@@ -2,3 +2,15 @@ Meal,Category,Mass
 Launch,Vegetables,2.1
 Breakfast,Vegetables,3.4
 Breakfast,Meat,3.18
+Dinner,Starchy food,0.5
+Launch,Bread,0.7
+Breakfast,Bread,7.6
+Launch,Starchy food,2.3
+Dinner,Bread,232.0
+Breakfast,Vegetables,232.88
+Launch,Vegetables,232.88
+Dinner,Vegetables,100.0
+Breakfast,Bread,902.0
+Breakfast,Starchy food,234.0
+Launch,Meat,333.0
+Launch,Meat,333.0
