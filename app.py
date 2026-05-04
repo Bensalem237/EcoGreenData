@@ -42,7 +42,7 @@ if os.path.exists(DATA_FILE):
     
     # Display of quick stats
     col_a, col_b, col_c = st.columns(3)
-    col_a.metric("Total thrown", f"{df['mass'].sum():.1f} kg")
+    col_a.metric("Total thrown", f"{df['Mass'].sum():.1f} kg")
     col_b.metric("Average per entry", f"{df['Mass'].mean():.2f} kg")
     col_c.metric("Number of entries", len(df))
     
